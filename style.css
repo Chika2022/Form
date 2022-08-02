@@ -1,0 +1,73 @@
+body{
+  background-color: #2D3856;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1rem;
+  color: red;
+  text-align: left;
+}
+
+.sign-in{
+  color: rgba(220,118,140,255);
+}
+
+p.top{
+  margin-left: 200px;
+  font-size: 0.9rem;
+}
+.top2{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3rem;
+}
+.top3{
+  text-align: center;
+    font-size: 0.9rem;
+
+}
+
+hr{
+border-width: 5px;
+border-style: none none dotted;
+width:50px;
+margin: 50px 150px;
+align-content: center;
+
+}
+
+input{
+  border-style: solid;
+  border-width:2px;
+  margin: 10px 2px 20px;
+  width: 350px;
+  border-radius: 3px;
+  border-color: ash;
+  background-color: #666B7F;
+  border-color: #888DA3;
+  padding: 5px 0;
+
+}
+input.hover {
+  background-color: white;
+  border-style: red;
+}
+
+input[type=button]{
+  background-color:  rgba(220,118,140,255);
+  width: 350px;
+  border: none;
+  padding: 5px 0;
+}
+
+.fot{
+  background-color: #2D3856;
+  text-align: center;
+  font-size: rem;
+  box-shadow: 0 5px 4px 0 #1b1f30, 0 5px 5px #252b43;]
+}
+.text{
+
+}
+
+.red1{
+  color:rgba(220,118,140,255);
+}
